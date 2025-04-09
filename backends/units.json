@@ -1,0 +1,21 @@
+[
+  {
+    "T1": "s",
+    "T2": "s",
+    "p": "depolarisation",
+    "rout": "readout error",
+    "p_cnot": "cnot error",
+    "t_cnot": "cnot time",
+    "tm": "measurement time (s)",
+    "dt": "us",
+    "metadata": []
+  },
+  {
+    "T1": "us",
+    "T2": "us",
+    "Frequency": "GHz",
+    "Anharmonicity": "GHz",
+    "Readout length": "ns",
+    "Gate time": "ns"
+  }
+]
